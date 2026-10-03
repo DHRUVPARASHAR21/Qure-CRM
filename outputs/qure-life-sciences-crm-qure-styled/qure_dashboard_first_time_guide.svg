@@ -1,0 +1,64 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="1000" viewBox="0 0 1600 1000" role="img" aria-labelledby="title desc">
+  <title id="title">Qure.ai Life Sciences CRM — First-time Dashboard Guide</title>
+  <desc id="desc">A Qure.ai themed poster explaining how to navigate the India Life Sciences CRM dashboard and turn metrics into actions.</desc>
+  <style>
+    .h1{font:700 39px Aptos,Inter,Arial,sans-serif;fill:#F8FAFC}.h2{font:700 20px Aptos,Inter,Arial,sans-serif;fill:#F8FAFC}.h3{font:700 15px Aptos,Inter,Arial,sans-serif;fill:#F8FAFC}.body{font:400 15px Aptos,Inter,Arial,sans-serif;fill:#C5D2DF}.small{font:400 13px Aptos,Inter,Arial,sans-serif;fill:#94A3B8}.metric{font:700 30px Aptos,Inter,Arial,sans-serif;fill:#F8FAFC}.metriclabel{font:700 12px Aptos,Inter,Arial,sans-serif;fill:#94A3B8;letter-spacing:.8px}.coral{fill:#FF6B6B}.teal{fill:#14B8A6}.muted{fill:#94A3B8}.white{fill:#F8FAFC}.num{font:700 18px Aptos,Inter,Arial,sans-serif;fill:#0B1926}
+  </style>
+  <rect width="1600" height="1000" fill="#0B1926"/>
+  <rect x="0" y="0" width="1600" height="10" fill="#FF6B6B"/>
+  <text x="72" y="78" class="h1">Qure.ai Life Sciences CRM</text>
+  <text x="72" y="111" class="small">FIRST-TIME DASHBOARD GUIDE · INDIA FOCUS · TURN RESEARCH INTO PRIORITISED NEXT ACTIONS</text>
+  <line x1="72" y1="138" x2="1528" y2="138" stroke="#24445A" stroke-width="1"/>
+
+  <text x="72" y="184" class="h2">Start with the operating snapshot</text>
+  <text x="72" y="209" class="body">The top-left KPI block answers: How large is the market list, where is attention needed, and how reliable is the research?</text>
+  <g>
+    <rect x="72" y="238" width="250" height="108" rx="4" fill="#0D1E2D" stroke="#24445A"/>
+    <rect x="72" y="238" width="6" height="108" fill="#14B8A6"/>
+    <text x="99" y="271" class="metriclabel">TOTAL ACCOUNTS</text><text x="99" y="315" class="metric">25</text>
+    <rect x="340" y="238" width="250" height="108" rx="4" fill="#0D1E2D" stroke="#24445A"/>
+    <rect x="340" y="238" width="6" height="108" fill="#14B8A6"/>
+    <text x="367" y="271" class="metriclabel">TOTAL CONTACTS</text><text x="367" y="315" class="metric">100</text>
+    <rect x="608" y="238" width="250" height="108" rx="4" fill="#0D1E2D" stroke="#24445A"/>
+    <rect x="608" y="238" width="6" height="108" fill="#FF6B6B"/>
+    <text x="635" y="271" class="metriclabel">HIGH-PRIORITY LEADS</text><text x="635" y="315" class="metric">11</text>
+    <rect x="876" y="238" width="250" height="108" rx="4" fill="#0D1E2D" stroke="#24445A"/>
+    <rect x="876" y="238" width="6" height="108" fill="#FF6B6B"/>
+    <text x="903" y="271" class="metriclabel">TIER 1 ACCOUNTS</text><text x="903" y="315" class="metric">15</text>
+    <rect x="1144" y="238" width="384" height="108" rx="4" fill="#0D1E2D" stroke="#24445A"/>
+    <rect x="1144" y="238" width="6" height="108" fill="#14B8A6"/>
+    <text x="1171" y="271" class="metriclabel">VERIFIED CONTACTS</text><text x="1171" y="315" class="metric">82</text><text x="1260" y="315" class="small">of 100</text>
+  </g>
+  <text x="72" y="379" class="small">CORAL = attention / decision needed · TEAL = confirmed, current, or progressing · slate = context or research detail</text>
+
+  <rect x="72" y="410" width="710" height="450" rx="6" fill="#0D1E2D" stroke="#24445A"/>
+  <text x="104" y="454" class="h2">1. Read patterns, not isolated numbers</text>
+  <line x1="104" y1="474" x2="750" y2="474" stroke="#24445A"/>
+  <circle cx="120" cy="516" r="14" fill="#FF6B6B"/><text x="115" y="522" class="num">1</text>
+  <text x="150" y="514" class="h3">Leads by sector</text><text x="150" y="538" class="body">Example: 88 pharma contacts vs. 12 biotech contacts.</text><text x="150" y="561" class="small">Insight: pharma is the current relationship base. Build biotech coverage deliberately, not reactively.</text>
+  <circle cx="120" cy="615" r="14" fill="#14B8A6"/><text x="115" y="621" class="num">2</text>
+  <text x="150" y="613" class="h3">Leads by seniority</text><text x="150" y="637" class="body">Use the executive mix to plan stakeholder coverage.</text><text x="150" y="660" class="small">Insight: pair an economic buyer with a technical evaluator before proposing a use case.</text>
+  <circle cx="120" cy="714" r="14" fill="#14B8A6"/><text x="115" y="720" class="num">3</text>
+  <text x="150" y="712" class="h3">Leads by solution interest</text><text x="150" y="736" class="body">Example: RWE / commercial evidence currently dominates the tagged use cases.</text><text x="150" y="759" class="small">Insight: convert the signal into a focused RWE value proposition and supporting proof points.</text>
+  <text x="104" y="809" class="small">TIP: A high count indicates research concentration — not confirmed demand, deal probability, or permission to contact.</text>
+  <text x="104" y="833" class="small">NEWS LENS: Log trial readouts, launches, partnerships, and regulatory updates as source-backed context before changing a hypothesis.</text>
+
+  <rect x="818" y="410" width="710" height="450" rx="6" fill="#0D1E2D" stroke="#24445A"/>
+  <text x="850" y="454" class="h2">2. Turn the dashboard into a weekly workflow</text>
+  <line x1="850" y1="474" x2="1496" y2="474" stroke="#24445A"/>
+  <g>
+    <circle cx="880" cy="525" r="20" fill="#FF6B6B"/><text x="873" y="532" class="num">1</text>
+    <text x="922" y="522" class="h3">Prioritise</text><text x="922" y="545" class="body">Filter Tier 1 accounts, high lead scores, and overdue next steps.</text>
+    <circle cx="880" cy="607" r="20" fill="#14B8A6"/><text x="873" y="614" class="num">2</text>
+    <text x="922" y="604" class="h3">Validate</text><text x="922" y="627" class="body">Check verification status and source date before a role-specific approach.</text>
+    <circle cx="880" cy="689" r="20" fill="#14B8A6"/><text x="873" y="696" class="num">3</text>
+    <text x="922" y="686" class="h3">Act</text><text x="922" y="709" class="body">Log the next best action, owner, due date, and outcome in Activities.</text>
+    <circle cx="880" cy="771" r="20" fill="#FF6B6B"/><text x="873" y="778" class="num">4</text>
+    <text x="922" y="768" class="h3">Learn</text><text x="922" y="791" class="body">Update the opportunity stage only when new research or relevant news changes the account hypothesis.</text>
+  </g>
+
+  <rect x="72" y="890" width="1456" height="60" rx="4" fill="#143145"/>
+  <text x="102" y="917" class="h3">A clean decision rule</text>
+  <text x="102" y="940" class="body">If the role is unverified, recheck it. If account coverage is thin, research the stakeholder map. If the use case is clear, book the next action. If evidence is missing, do not advance the stage.</text>
+  <text x="1528" y="977" text-anchor="end" class="small">QURE.AI INTERNAL OPERATING GUIDE · RESEARCH SNAPSHOT, NOT A REVENUE FORECAST</text>
+</svg>

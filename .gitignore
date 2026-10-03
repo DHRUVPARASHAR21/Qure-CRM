@@ -1,3 +1,7 @@
 node_modules/
 dist/
 .firecrawl/
+tmp/
+output/pdf/*-1.png
+outputs/qure-crm-onboarding-field-guide/guide-*.png
+outputs/qure-crm-onboarding-poster/poster-1.png
