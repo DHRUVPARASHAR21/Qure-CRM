@@ -9,6 +9,14 @@ Evidence-first CRM workspace for Qure.ai's India Life Sciences Business Developm
 - `output/pdf/qure_crm_single_page_operating_poster.pdf` - compact A3 operating-poster variant.
 - `outputs/qure-crm-onboarding-field-guide/qure_crm_india_field_guide.pdf` - eight-page field guide.
 
+## Open the CRM onboarding material
+
+[<img src="outputs/qure-life-sciences-crm-qure-styled/Dashboard.png" alt="Qure.ai India Life Sciences CRM dashboard" width="900">](output/pdf/qure_crm_full_scale_vertical_onboarding_poster.pdf)
+
+- [Open the full-scale vertical CRM onboarding poster (PDF)](output/pdf/qure_crm_full_scale_vertical_onboarding_poster.pdf)
+- [Open the CRM field guide (PDF)](outputs/qure-crm-onboarding-field-guide/qure_crm_india_field_guide.pdf)
+- [Download the Qure-branded India Life Sciences CRM workbook](outputs/qure-life-sciences-crm-qure-styled/qure_india_life_sciences_crm_qure_styled.xlsx)
+
 The CRM research uses public professional information only. Unverified data is explicitly marked and must not be used as outreach-ready contact data.
 
 ## Rebuild artifacts
